@@ -1,4 +1,4 @@
-package org.example.lambdas.Suplier;
+package org.example.lambdas.suplier;
 
 import java.util.function.Supplier;
 

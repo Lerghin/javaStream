@@ -1,4 +1,4 @@
-package org.example.lambdas.Biconsumer;
+package org.example.lambdas.biConsumer;
 
 import java.util.function.BiConsumer;
 

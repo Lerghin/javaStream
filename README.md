@@ -14,13 +14,13 @@ El proyecto está organizado en los siguientes paquetes y clases:
 - `org.example.lambdas.Supplier`
   - `SuplierExample.java`: Demuestra el uso de la interfaz `Supplier` que no recibe valores y retorna un valor.
   
-- `org.example.lambdas.Function`
+- `org.example.lambdas.function`
   - `FunctionExample.java`: Demuestra el uso de la interfaz `Function` que recibe un valor y retorna un valor.
   
 - `org.example.lambdas.BiConsumer`
   - `BiConsumerExample.java`: Demuestra el uso de la interfaz `BiConsumer` que recibe dos valores y no retorna nada.
   
-- `org.example.lambdas.BiFunction`
+- `org.example.lambdas.biFunction`
   - `BiFunctionExample.java`: Demuestra el uso de la interfaz `BiFunction` que recibe dos valores y retorna un valor.
 
 ## Ejecución

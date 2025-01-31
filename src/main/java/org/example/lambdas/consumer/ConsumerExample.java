@@ -1,4 +1,4 @@
-package org.example.lambdas.Consumer;
+package org.example.lambdas.consumer;
 
 public class ConsumerExample {
         public static void main(String[] args) {
